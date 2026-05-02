@@ -1,4 +1,4 @@
-![Uploading homepage.png…]()
+
 <img width="1900" height="1019" alt="homepage" src="https://github.com/user-attachments/assets/9e81e029-b7b5-4448-8aa7-6fc9e23fb9f4" />
 # 🎓 Student Result Management System
 
