@@ -61,7 +61,7 @@ student-result-management-system/
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home](https://raw.githubusercontent.com/your-username/student-result-management-system/main/screenshots/homepage.png)
+![Home](screenshots/homepage.png)
 
 ### 🔍 Search Function
 ![Search](screenshots/search-function-working.png)
