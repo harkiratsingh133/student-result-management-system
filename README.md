@@ -1,5 +1,4 @@
 
-<img width="1900" height="1019" alt="homepage" src="https://github.com/user-attachments/assets/9e81e029-b7b5-4448-8aa7-6fc9e23fb9f4" />
 # 🎓 Student Result Management System
 
 A web-based Student Result Management System developed using **PHP and MySQL**. This project helps manage student records, marks entry, and result generation efficiently through a secure admin panel.
