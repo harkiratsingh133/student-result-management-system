@@ -115,8 +115,8 @@ student-result-management-system/
 
 **Harkirat Singh**
 
-* GitHub: https://github.com/your-username
-* LinkedIn: https://linkedin.com/in/your-username
+* GitHub: https://github.com/harkiratsingh133
+* LinkedIn: https://linkedin.com/in/harkirat-singh12756
 
 ---
 
