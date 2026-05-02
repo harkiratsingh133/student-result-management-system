@@ -1,0 +1,108 @@
+/* Background Image */
+body 
+{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: url('images/final background.jpg'); /* put your image in same folder */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+/* Top Heading */
+.main-heading {
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bold;
+    color: white;
+    margin-top: 20px;
+}
+
+/* Horizontal Line */
+.main-line {
+    height: 20px;
+    background-color: #000000;
+    border: 2px solid white;
+    border-radius: 20px;
+    width: 95%;
+}
+
+/* Main Container */
+.container {
+    width: 400px;
+    margin: 50px auto;
+    padding: 30px;
+    background: rgba(255, 255, 255, 1);
+    border-radius: 15px;
+    text-align: center;
+}
+.container:hover {
+    transform: scale(1.02);
+    box-shadow: 0 12px 35px rgba(0,0,0,0.3);
+    transition: 0.3s ease;
+}
+/* Form Box */
+.form-box {
+    margin-top: 20px;
+}
+
+/* Input Field */
+input {
+    width: 90%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+}
+
+/* Button */
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+/* Links Section */
+.links {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.links a {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 8px;
+    transition: 0.3s ease;
+    font-size: x-large;
+}
+
+.links a:hover {
+    background-color: #0056b3;
+    transform: scale(1.05);
+}
+
+.links a:hover
+{
+background:#0056b3;
+}
+label
+{
+    font-weight: bold;
+    font-family: calibri;
+    font-size: x-large;
+}
