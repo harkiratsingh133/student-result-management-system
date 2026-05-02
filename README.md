@@ -61,7 +61,7 @@ student-result-management-system/
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home](screenshots/homepage.png)
+![Home](/student-result-management-system/student-result-system/screenshots/homepage.png)
 
 ### 🔍 Search Function
 ![Search](screenshots/search-function-working.png)
