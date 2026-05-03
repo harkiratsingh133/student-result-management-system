@@ -55,7 +55,15 @@ student-result-management-system/
    ```
    http://localhost/student-result-system
    ```
-    
+   ---
+    ## 🚀 Live Preview
+
+Project demonstrates:
+- Student result generation
+- Admin & faculty modules
+- PDF marksheet download
+
+👉 Run locally using XAMPP to explore full functionality
 ---
 
 ## 🎯 Future Improvements
