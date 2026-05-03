@@ -55,52 +55,7 @@ student-result-management-system/
    ```
    http://localhost/student-result-system
    ```
-
----
-
-## 📸 Screenshots
-
-### 🏠 Home Page
-![Home](screenshots/homepage.png)
-
-### 🔍 Search Function
-![Search](screenshots/search-function-working.png)
-
-### 🎓 View Result (Marksheet)
-![Result](screenshots/result-page.png)
-
-### 📄 Result PDF Download
-![PDF](screenshots/marksheet-pdf.png)
-
----
-
-## 👨‍🏫 Faculty Module
-
-### 🔐 Faculty Login
-![Faculty Login](screenshots/faculty-login-successfull.png)
-
-### 👥 Registered Students
-![Students](screenshots/students-page.png)
-
----
-
-## 🛠️ Admin Module
-
-### 🔐 Admin Login
-![Admin Login](screenshots/admin-login.png)
-
-### 📊 Admin Dashboard
-![Dashboard](screenshots/admin-dashboard.png)
-
-### 📚 Subjects Management
-![Subjects](screenshots/subjects.png)
-
-### 🚫 Student Registration Closed
-![Registration Closed](screenshots/student-registration-closed.png)
-
-### 🏆 View Marks, Topper & Rank
-![Topper](screenshots/view-marks-topper-rank.png)
- 
+    
 ---
 
 ## 🎯 Future Improvements
